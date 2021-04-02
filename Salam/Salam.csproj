@@ -65,6 +65,7 @@
     </Compile>
     <Compile Include="Class1.cs" />
     <Compile Include="Entites\Class Farid.cs" />
+    <Compile Include="Entites\class Perviz.cs" />
     <Compile Include="Entites\Class1.cs" />
     <Compile Include="Entites\Class2.cs" />
     <Compile Include="Entites\Class3.cs" />
