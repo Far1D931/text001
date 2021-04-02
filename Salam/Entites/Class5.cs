@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Salam.Entites
 {
-    class Class4
+    class Class5
     {
-       
     }
 }
